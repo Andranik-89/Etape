@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="27px" viewBox="0 0 25 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="11.5" cy="22.5" r="1.5"></circle>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-2" y="-2" width="7" height="7">
+            <rect x="8" y="19" width="7" height="7" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="Tunnel" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Etape-8-Copy" transform="translate(-392.000000, -572.000000)">
+            <g id="Group-3" transform="translate(393.000000, 573.000000)">
+                <path d="M11.5,23 C17.8512746,23 23,17.8512746 23,11.5 C23,5.14872538 17.8512746,0 11.5,0 C5.14872538,0 0,5.14872538 0,11.5 C0,17.8512746 5.14872538,23 11.5,23 Z" id="Oval-158-Copy-2" stroke="#65677C" stroke-width="2"></path>
+                <rect id="Rectangle-3-Copy-4" fill="#FE696A" x="10" y="10" width="3" height="8" rx="1.5"></rect>
+                <rect id="Rectangle-3-Copy-5" fill="#FE696A" transform="translate(15.000000, 11.500000) rotate(-270.000000) translate(-15.000000, -11.500000) " x="13.5" y="6.5" width="3" height="10" rx="1.5"></rect>
+                <g id="Oval-154-Copy-2">
+                    <use fill="#FE696A" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <use stroke="#FFFFFF" mask="url(#mask-2)" stroke-width="4" xlink:href="#path-1"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
